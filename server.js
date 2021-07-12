@@ -5,7 +5,7 @@ app.get('/', (req, res) => {
   res.send('Hello Friend')
 })
 
-var server = app.listen(5000, function () {
+var server = app.listen(3000, function () {
 	var port = server.address().port;
-	console.log("Server started at http://localhost:%s", port);
+	console.log("Ready Web, port);
 });
