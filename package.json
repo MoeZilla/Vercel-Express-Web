@@ -2,7 +2,7 @@
   "name": "Vercel-Express-Web",
   "version": "1.0.0",
   "description": "How To Deploy Express API On Vercel.",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "dev": "nodemon server"
   },
